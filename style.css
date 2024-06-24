@@ -1,0 +1,27 @@
+h1{
+    color: aqua;
+    border: 4px black double;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+}
+p{font-style: italic;
+   color: blue; 
+
+}
+.sim{
+    color: cadetblue;
+    background-color: cornsilk;
+    border: dashed;
+    width: 600px;
+}
+#ids{
+    color: brown;
+    background-color: burlywood;
+    border: inset;
+
+}
+h4,h5{
+    color:chartreuse;
+    background-color: aquamarine;
+}
