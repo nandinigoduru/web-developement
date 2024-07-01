@@ -1,0 +1,51 @@
+.{
+    box-sizing: border-box;
+    
+}
+h1{
+    text-align: center;
+    background-color: rgb(2, 2, 92);
+    color: rgb(224, 72, 17);
+    background: width 100%;
+
+}
+h3{
+    margin-left: 50%;
+}
+body{
+    font-family: "Margarine", sans-serif;
+}
+p{
+    background-color: rgb(67, 61, 2);
+    color: blanchedalmond;
+}
+header{
+    height: 50%;
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(1, 1, 65);
+    color: rgb(224, 72, 17);
+}
+h4{
+    color: peru;
+}
+nav{
+    float: left;
+     width:30%;
+    height:350px;
+    background-color: rgb(2, 17, 56);
+    color: bisque;
+}
+nav ul{
+    padding-left: 17%;
+    
+
+}
+ul{
+    text-transform: capitalize;
+}
+footer{
+    float: inline-end;
+    color: blanchedalmond;
+    background-color: rgb(59, 42, 29);
+}
